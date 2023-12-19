@@ -1,0 +1,150 @@
+The set of integers under addition forms a group.
+The group of real numbers excluding zero is a group under multiplication.
+Matrices with non-zero determinants form a group under multiplication.
+The set of even integers under addition is a group.
+The group of rational numbers excluding zero forms an additive group.
+Symmetric matrices with non-zero determinants constitute a group under multiplication.
+The set of non-zero integers under multiplication is a group.
+The group of complex numbers with absolute value 1 forms a multiplicative group.
+The integers modulo n form a cyclic group under addition.
+The set of invertible 2x2 matrices forms a group under matrix multiplication.
+The group of permutations of a finite set forms a symmetric group.
+The group of 3x3 orthogonal matrices constitutes a group under matrix multiplication.
+The set of non-negative integers under addition forms a group.
+The group of rotations in 3D space forms a group under composition.
+The set of non-zero rational numbers forms a group under multiplication.
+The group of translations in the plane forms a group under composition.
+The set of complex numbers excluding zero forms a group under multiplication.
+The dihedral group is a finite group of symmetries of a regular polygon.
+The group of non-zero elements in a field forms a multiplicative group.
+The set of rational numbers excluding zero forms a group under multiplication.
+The group of permutations on a set of n elements forms a symmetric group.
+The set of non-negative real numbers forms a group under multiplication.
+The group of reflections in a plane forms a group under composition.
+The group of rotations and reflections in 3D space forms a symmetry group.
+The set of complex numbers excluding zero forms a group under multiplication.
+The group of invertible n×n matrices over a field forms a matrix group.
+The group of translations and rotations in 2D space forms a symmetry group.
+The set of rational numbers excluding zero forms a group under addition.
+The group of invertible linear transformations on a vector space forms a group.
+The group of translations and reflections in a plane forms a symmetry group.
+The set of non-negative integers including zero forms a group under addition.
+The group of permutations on a finite set forms a symmetric group.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of real numbers excluding zero forms a group under multiplication.
+The group of rotations and reflections in 2D space forms a symmetry group.
+The set of non-negative rational numbers forms a group under multiplication.
+The group of rotations and translations in 3D space forms a symmetry group.
+The set of rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of non-negative real numbers excluding zero forms a group under multiplication.
+The group of symmetries of a cube forms a symmetry group.
+The set of real numbers including zero forms a group under addition.
+The group of translations and rotations in 3D space forms a symmetry group.
+The set of integers including zero forms a group under addition.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of non-negative rational numbers excluding zero forms a group under multiplication.
+The group of permutations on a finite set of elements forms a symmetric group.
+The set of complex numbers including zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of real numbers excluding zero forms a group under multiplication.
+The group of rigid motions in 2D space forms a symmetry group.
+The set of rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of complex numbers including zero forms a group under multiplication.
+The group of rotations and reflections in 2D space forms a symmetry group.
+The set of integers excluding zero forms a group under addition.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a cube forms a symmetry group.
+The set of real numbers including zero forms a group under addition.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of complex numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of non-negative integers excluding zero forms a group under addition.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of non-negative rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of integers including zero forms a group under addition.
+The group of symmetries of a cube forms a symmetry group.
+The set of rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of real numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of complex numbers including zero forms a group under multiplication.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of non-negative integers including zero forms a group under addition.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of non-negative rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a cube forms a symmetry group.
+The set of integers excluding zero forms a group under addition.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of real numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of complex numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of non-negative integers excluding zero forms a group under addition.
+The group of symmetries of a cube forms a symmetry group.
+The set of non-negative rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of integers including zero forms a group under addition.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of real numbers including zero forms a group under multiplication.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of complex numbers including zero forms a group under multiplication.
+The group of symmetries of a cube forms a symmetry group.
+The set of non-negative integers including zero forms a group under addition.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of non-negative rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of integers excluding zero forms a group under addition.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of real numbers excluding zero forms a group under multiplication.
+The group of symmetries of a cube forms a symmetry group.
+The set of complex numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of non-negative integers excluding zero forms a group under addition.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of non-negative rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of integers including zero forms a group under addition.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a cube forms a symmetry group.
+The set of real numbers including zero forms a group under multiplication.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of complex numbers including zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of non-negative integers including zero forms a group under addition.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of non-negative rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of integers excluding zero forms a group under addition.
+The group of symmetries of a cube forms a symmetry group.
+The set of rational numbers including zero forms a group under multiplication.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of real numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of complex numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of non-negative integers excluding zero forms a group under addition.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of non-negative rational numbers including zero forms a group under multiplication.
+The group of symmetries of a cube forms a symmetry group.
+The set of integers including zero forms a group under addition.
+The group of symmetries of a regular dodecahedron forms a symmetry group.
+The set of rational numbers excluding zero forms a group under multiplication.
+The group of symmetries of a regular icosahedron forms a symmetry group.
+The set of real numbers including zero forms a group under multiplication.
+The group of symmetries of a regular tetrahedron forms a symmetry group.
+The set of complex numbers including zero forms a group under multiplication.
+The group of symmetries of a regular octahedron forms a symmetry group.
+The set of non-negative integers including zero forms a group under addition.
+The group of symmetries of a cube forms a symmetry group.
+The set of non-negative rational numbers excluding zero forms a group under multiplication.
